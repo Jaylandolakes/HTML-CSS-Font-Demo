@@ -1,0 +1,93 @@
+p {
+    font-family:Roboto;
+    margin-top:0;
+    margin-bottom:20px;
+}
+    .videoTitle {
+        font-weight:bold;
+        font-size:18px;
+        width: 300px;
+        line-height:24px;
+        margin-bottom:5px;
+
+    }
+
+    .videoStats {
+        font-size: 14px;
+        color: rgb(96,96,96);
+    }
+
+    .videoAuthor {
+        font-size: 14px;
+        color: rgb(96,96,96);
+    }
+
+    .videoDiscription {
+        font-size: 14px;
+        color: rgb(96,96,96);
+        width: 300px;
+        line-height:22px;
+        margin-bottom: 100px;
+    }
+
+    .appleText {
+        margin-bottom:50px;
+        font-size:14px;
+        background-color:rgb(277,65,64);
+        color: white;
+        text-align: center;
+        padding-top:17px;
+        padding-bottom:17px;
+    }
+
+    .shopNow {
+        cursor: pointer;
+    }
+    .shopNow:hover {
+        text-decoration: underline;
+    }
+
+    .textExercise {
+        margin-top: 100px;
+        text-align: center;
+        font-family: Arial;
+    }
+
+    .intro { 
+        color: red;
+        font-weight:bold;
+        font-size:14px;
+        margin-bottom: 10px;
+    }
+
+    .title {
+        font-weight: bold;
+        font-size: 23px;
+        margin-bottom: 5px;
+    }
+
+    .body {
+        font-weight: bolder;
+        font-size: 42px;
+        margin-bottom: 15px;
+    }
+
+    .buyButton {
+        cursor: pointer;
+        transition: 0.15s;
+        background-color: rgb(34, 103, 231);
+        color: white;
+        height:25px;
+        width: 50px;
+        border-radius: 12.5px;
+        border: none;
+
+    }
+
+    .buyButton:hover {
+        opacity: 0.8;
+    }
+
+    .buyButton:active {
+        opacity: 0.6;
+    }
